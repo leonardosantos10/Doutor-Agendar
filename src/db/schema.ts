@@ -39,6 +39,7 @@ export const sessionsTable = pgTable("sessions", {
 });
 
 export const accountsTable = pgTable("accounts", {
+  id: text("id").primaryKey(),
   accountId: text("account_id").notNull(),
   providerId: text("provider_id").notNull(),
   userId: text("user_id")
@@ -201,3 +202,4 @@ export const appointmentsTableRelations = relations(
     }),
   }),
 );
+

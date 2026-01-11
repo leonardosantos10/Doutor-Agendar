@@ -16,6 +16,7 @@ if (!session?.user) {
    redirect("/authentication");
 }
 
+
 const clinics = await db.query.usersToClinicsTable.findMany({
   where: eq(usersToClinicsTable.userId, session.user.id),
 })

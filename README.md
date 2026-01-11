@@ -14,6 +14,8 @@
 - **NextAuth / Auth.js**
 - **ESLint & Prettier**
 
+
+ <img src="https://skillicons.dev/icons?i=nodejs,nestjs,tailwind,ts"/>
 ---
 
 ### 📘 01 — Setup do Projeto

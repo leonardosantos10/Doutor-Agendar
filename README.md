@@ -16,6 +16,7 @@
 
 
  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,tailwind,ts"/>
+ <br>
 ---
 
 ### 📘 01 — Setup do Projeto

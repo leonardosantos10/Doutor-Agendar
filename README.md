@@ -15,7 +15,7 @@
 - **ESLint & Prettier**
 
 
- <img src="https://skillicons.dev/icons?i=nodejs,nestjs,tailwind,ts,gmail"/>
+ <img src="https://skillicons.dev/icons?i=nodejs,nestjs,tailwind,ts,postgres"/>
 
 ### 📘 01 — Setup do Projeto
 - ✅ Inicialização do projeto **Next.js**
